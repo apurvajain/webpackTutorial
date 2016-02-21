@@ -1,4 +1,4 @@
-# webpackTutorial
+# Webpack Tutorial
 Learning webpack
 
 ##Basics
