@@ -5,7 +5,7 @@
   "main": "entry.js",
   "scripts": {
     "test": "test",
-    "start": "webpack-dev-server --progress --color --hot --inline"
+    "start": "webpack-dev-server --progress --color --hot --inline --port 9999"
   },
   "repository": {
     "type": "git",
